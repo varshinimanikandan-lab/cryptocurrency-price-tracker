@@ -56,7 +56,7 @@ Usage:
 
 Run the script:
 
-python crypto_tracker.py
+python cryptocurrency_scrapper.py
 
 
 After running, you’ll see a file named crypto_prices.csv in your project folder containing live data.
